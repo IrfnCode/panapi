@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/IrfnCode/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
 <a href="https://github.com/IrfnCode/panapi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/IrfnCode/panapi?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IrfnCode/panapi?color=red&style=flat-square"></a>
+<a href="https://github.com/IrfnCode/panapi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IrfnCode/panapi?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/my-rest-api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/my-rest-api?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/my-rest-api"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zeeoneofficial/my-rest-api/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofficial/my-rest-api?style=flat-square&color=green"></a>
